@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.main-container {
+  min-height: 100vh;
+  background-color: #f1f5f8;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+span {
+  color: #c20a72;
+  margin-left: 35%;
+}
+.second-cont {
+  text-align: center;
+}
+.head {
+  font-size: 25px;
+  font-family: 'Roboto';
+  color: #2d3a35;
+}
+.para {
+  font-size: 15;
+  font-family: 'Roboto';
+  color: #2d3a35;
+}
+.button {
+  color: #ffffff;
+  background-color: #007bff;
+  outline: none;
+  border: 0px;
+  height: 32px;
+  width: 70px;
+  border-radius: 5px;
+  cursor: pointer;
+}
